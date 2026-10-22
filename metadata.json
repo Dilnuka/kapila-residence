@@ -1,0 +1,6 @@
+{
+  "name": "Kapila Residence — 3D Architectural Spatial Twin",
+  "description": "High-accuracy interactive 3D architectural walkthrough and physics-based spatial environment for the Proposed Residence for Mr. Kapila Liyanage at Yatiyana (Ground Floor & First Floor Option 03).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
